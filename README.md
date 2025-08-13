@@ -26,7 +26,6 @@ Run in your shell environment :
 ```bash
 git clone https://github.com/jotudela/get_next_line.git && cd get_next_line
 ```
-Now you have `libftprintf.a` which is a static library.
 
 ---
 
