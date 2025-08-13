@@ -39,7 +39,7 @@ echo  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod t
 Step 3:
 
 Create a simple `main.c` function :
-```bash
+```c
 #include "get_next_line.h"
 #include <stdio.h>
 #include <string.h>
